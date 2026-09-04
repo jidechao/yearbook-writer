@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated documents
+*.docx
+*.tmp
+
+# OS/editor
+.DS_Store
+Thumbs.db
